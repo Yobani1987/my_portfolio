@@ -81,14 +81,14 @@
                              fa-pencil-square-o bigicon"></i></span>
                             <div class="col-md-8">
                                 <textarea class="form-control" id="message" name="message"
-                                          placeholder="I will get back to you within 2 buisness day."
+                                          placeholder="I will get back to you within 3 buisness day."
                                             rows="7"></textarea>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-md-12 text-xs-center">
                                 <button type="submit" class="btn btn-dark
-                                 btn-lg">Contact</button>
+                                 btn-lg" id="submit" name="submit">Contact</button>
                             </div>
                         </div>
                     </fieldset>
