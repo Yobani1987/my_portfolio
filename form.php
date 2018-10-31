@@ -31,20 +31,20 @@
 <body id="pagetwo">
 
 <nav class="navbar navbar-expand-lg transparentcontact navbar-dark p-3 fixed-top">
-    <a class="navbar-brand" href="index.html">Yobani Mendoza</a>
+    <a class="navbar-brand" href="index.php">Yobani Mendoza</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="index.html#portfolio">Portfolio</a>
+                <a class="nav-link" href="index.php#portfolio">Portfolio</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="index.html#social">Social Media</a>
+                <a class="nav-link" href="index.php#social">Social Media</a>
             </li>
         </ul>
     </div>
@@ -57,7 +57,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="well well-sm">
-                <form class="" method="post">
+                <form class="" action="contactform.php" method="post">
                     <fieldset>
                         <legend class="text-xs-center header">Contact Me</legend>
                         <div class="form-group">

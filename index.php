@@ -122,7 +122,7 @@
                 <h1 class="text-dark text-uppercase">contact me</h1>
             </div>
                 <div class="col-sm-6 my-2">
-                    <a href="form.html" class="btn btn-lg btn-outline-dark
+                    <a href="form.php" class="btn btn-lg btn-outline-dark
                      text-uppercase">Send me your questions</a>
                 </div>
         </div>
@@ -169,7 +169,7 @@
                 <img src="images/revamp.png" class="img-fluid rounded"
                      alt="revamp"></a>
                 <h1 class="my-3">Discography Redesign Website</h1>
-                <p class="text-muted">This was a peers discography website that was given to 
+                <p class="text-muted">This was a peers discography website that was given to
                     me to redesign using my newly learned skills.<br>
                     <strong>Skills:</strong> FTP, HTML, CSS, Javascript, Github, Sketch, Photoshop
                     and YouTube.</p>
