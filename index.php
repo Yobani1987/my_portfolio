@@ -199,7 +199,7 @@
     <div class="container">
         <div class="row">
             <div class="col text-center">
-                <p class="text-black text-capitalize">&copy;copyright 2017 Yobani
+                <p class="text-black text-capitalize">&copy;2017 Yobani
                     Mendoza</p>
             </div>
         </div>
