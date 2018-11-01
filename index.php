@@ -79,11 +79,11 @@
                 <a href="https://www.linkedin.com/in/yobani-mendoza-368716122/
                         " class="btn btn-lg
                   btn-outline-dark text-uppercase
-                  m-2 p-2"><i class="fa
+                  m-2 p-2" target="_blank"><i class="fa
                   fa-linkedin-square" aria-hidden="true">Linkedin</i></a>
                   <a href="https://github.com/Yobani1987" class="btn btn-lg
                   btn-outline-dark text-uppercase
-                  m-2 p-2"><i class="fa fa-github mr-2"
+                  m-2 p-2" target="_blank"><i class="fa fa-github mr-2"
                              aria-hidden="true">Github</i></a>
             </div>
         </div>
@@ -184,11 +184,11 @@
     <div class="container-fluid">
       <div class="row align-items-center">
           <div class="col-12 d-flex justify-content-between">
-              <a href="https://yobanimendoza.wordpress.com/"><i class="fa fa-wordpress
+              <a href="https://yobanimendoza.wordpress.com/" target="_blank"><i class="fa fa-wordpress
                fa-5x text-dark" aria-hidden="true"></i></a>
-              <a href="https://twitter.com/yobani_mendoza"><i class="fa fa-twitter fa-5x
+              <a href="https://twitter.com/yobani_mendoza" target="_blank"><i class="fa fa-twitter fa-5x
                text-dark" aria-hidden="true"></i></a>
-              <a href="https://www.instagram.com/yobani_mendoza/"><i class="fa fa-instagram fa-5x text-dark"
+              <a href="https://www.instagram.com/yobani_mendoza/" target="_blank"><i class="fa fa-instagram fa-5x text-dark"
                              aria-hidden="true"></i></a>
           </div>
       </div>
