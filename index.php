@@ -19,8 +19,9 @@
     </script>
     <!-- CSS
 ================================================== -->
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
-    <script src="https://use.fontawesome.com/a540518289.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     <link rel="stylesheet"  href="css/normalize.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
@@ -76,15 +77,12 @@
             <div class="col-12 col-sm-6 mx-auto my-5">
                 <h1 class="text-dark text-uppercase">Yobani Mendoza</h1>
                 <p class="text-dark text-uppercase">Hello, I’m a current front end web development student at Francis Tuttle Technology Center in Oklahoma City, OK. </p>
-                <a href="https://www.linkedin.com/in/yobani-mendoza-368716122/
-                        " class="btn btn-lg
-                  btn-outline-dark text-uppercase
-                  m-2 p-2" target="_blank"><i class="fa
-                  fa-linkedin-square" aria-hidden="true">Linkedin</i></a>
+                <a href="https://www.linkedin.com/in/yobani-mendoza-368716122/" class="btn btn-lg
+                btn-outline-dark text-uppercase
+                m-2 p-2" target="_blank"><i class="fab fa-linkedin"></i>linkedin</a>
                   <a href="https://github.com/Yobani1987" class="btn btn-lg
                   btn-outline-dark text-uppercase
-                  m-2 p-2" target="_blank"><i class="fa fa-github mr-2"
-                             aria-hidden="true">Github</i></a>
+                  m-2 p-2" target="_blank"><i class="fab fa-github-square"></i>github</a>
             </div>
         </div>
     </div>
@@ -184,11 +182,11 @@
     <div class="container-fluid">
       <div class="row align-items-center">
           <div class="col-12 d-flex justify-content-between">
-              <a href="https://yobanimendoza.wordpress.com/" target="_blank"><i class="fa fa-wordpress
+              <a href="https://yobanimendoza.wordpress.com/" target="_blank"><i class="fab fa-wordpress
                fa-5x text-dark" aria-hidden="true"></i></a>
-              <a href="https://twitter.com/yobani_mendoza" target="_blank"><i class="fa fa-twitter fa-5x
+              <a href="https://twitter.com/yobani_mendoza" target="_blank"><i class="fab fa-twitter fa-5x
                text-dark" aria-hidden="true"></i></a>
-              <a href="https://www.instagram.com/yobani_mendoza/" target="_blank"><i class="fa fa-instagram fa-5x text-dark"
+              <a href="https://www.freecodecamp.org/yobani1987" target="_blank"><i class="fab fa-free-code-camp fa-5x text-dark"
                              aria-hidden="true"></i></a>
           </div>
       </div>
@@ -210,7 +208,7 @@
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
-
+<script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
 
 
 </body>
