@@ -133,15 +133,13 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6 my-3">
-                <a href="http://site13.wdd.francistuttle.edu/projectone/index.html">
+                <a href="http://7xp.0f4.myftpupload.com">
                <img src="images/cravings2.png" class="img-fluid rounded"
                     alt="cupcakelogo"></a>
-                <h1 class="my-3">Cravings Website</h1>
-                <p class="text-muted"> I was tasked with making my first website for
-                    a snack bar located inside Francis Tuttle.<br>
-                    <strong>Skills:</strong> For this project I used basic HTML and
-                    CSS. I also incorporated copy and paste functions quite
-                    frequently. YouTube also hooked it up.</p>
+                <h1 class="my-3">LaGree Associates</h1>
+                <p class="text-muted"> I maintain and continuously update their website with changes to property listings/contact information. I also customize content and design when asked.<br>
+                    <strong>Skills:</strong> For this project I currently use HTML and
+                    CSS in Wordpress.</p>
             </div>
             <div class="col-sm-6 my-3">
                 <a href="http://site13.wdd.francistuttle.edu/projecttwo/framestyles/index.html  ">
