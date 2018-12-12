@@ -134,7 +134,7 @@
         <div class="row">
             <div class="col-sm-6 my-3">
                 <a href="http://7xp.0f4.myftpupload.com">
-               <img src="images/lagree2.png" class="img-fluid rounded"
+               <img src="images/lagree3.png" class="img-fluid rounded"
                     alt="cupcakelogo"></a>
                 <h1 class="my-3">LaGree Associates</h1>
                 <p class="text-muted"> I maintain and continuously update their website with changes to property listings/contact information. I also customize content and design when asked.<br>
